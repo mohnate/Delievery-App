@@ -1,9 +1,5 @@
 # Blinkit Clone (Mobile Android App)
 
-## Demo Video
-
-[Click Me for live preview](https://youtu.be/kFsOtO5O1rc)
-
 ## Technology
 
 - [React Native](https://reactnative.dev/)
